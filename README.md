@@ -21,4 +21,4 @@
 #### Start Node
      node index.js
      
-Scan the Whatsapp QR Code and its get ready. When somesone send you these words ---> Hello, Meme, Morning, bot will response them.
+After scanning the Whatsapp QR Code, you will get response "Client is ready!". Now, when somesone send you these words ---> Hello, Meme, Morning, bot will response them.
