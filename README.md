@@ -1,4 +1,7 @@
-### Whatsapp bot
+### Whatsapp bot (Node 12+)
+
+#### Node Version
+     v14.20.1
 
 #### Clone Repo
      git clone https://github.com/1DevOps2/Whatsapp-bot.git
