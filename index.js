@@ -2,6 +2,8 @@ const qrcode = require('qrcode-terminal');
 const axios = require('axios');
 
 const { Client, LocalAuth, MessageMedia } = require('whatsapp-web.js');
+
+// Restore Session
 const client = new Client({
     authStrategy: new LocalAuth()
 }
