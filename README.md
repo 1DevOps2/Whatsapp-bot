@@ -1,4 +1,4 @@
-### Whatsapp bot (Node 12+)
+### Simple Whatsapp bot (Node 12+)
 
 #### Node Version
      v14.20.1
