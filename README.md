@@ -6,7 +6,7 @@
 #### Clone Repo
      git clone https://github.com/1DevOps2/Whatsapp-bot.git
      
-#### Initilize Npm.
+#### Initilize Npm
     cd Whatsapp-bot
     npm init -y
   
