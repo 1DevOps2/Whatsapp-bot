@@ -1,6 +1,6 @@
 ### Simple Whatsapp bot (Node 12+)
 
-#### Node Version
+#### Node Version.
      v14.20.1
 
 #### Clone Repo
